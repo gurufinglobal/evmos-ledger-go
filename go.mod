@@ -3,7 +3,7 @@ module github.com/GPTx-global/evmos-ledger-go
 go 1.19
 
 require (
-	github.com/GPTx-global/guru v1.0.3-pre
+	github.com/GPTx-global/guru v1.0.6
 	github.com/cosmos/cosmos-sdk v0.46.13
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/stretchr/testify v1.8.2

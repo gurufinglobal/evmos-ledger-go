@@ -204,8 +204,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/ChainSafe/go-schnorrkel v1.0.0 h1:3aDA67lAykLaG1y3AOjs88dMxC88PgUuHRrLeDnvGIM=
 github.com/ChainSafe/go-schnorrkel v1.0.0/go.mod h1:dpzHYVxLZcp8pjlV+O+UR8K0Hp/z7vcchBSbMBEhCw4=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
-github.com/GPTx-global/guru v1.0.3-pre h1:fa97YIJ1AChtjc1nKzIT5hwLAKI/ogJITHLlRaRMOFM=
-github.com/GPTx-global/guru v1.0.3-pre/go.mod h1:V+bZtL3Y14RRFLJ4UMryVEJfSxXyvYo/eJ063AGk2Co=
+github.com/GPTx-global/guru v1.0.6 h1:j2UJXVeT9z/VOaML/pA5kT9e+5zgdLqjlIINxm0bCP8=
+github.com/GPTx-global/guru v1.0.6/go.mod h1:TMY0GcaRdiRlDE1GpJKCL7rcaEn5zFp1ZV2R5lgGwjE=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/StackExchange/wmi v1.2.1 h1:VIkavFPXSjcnS+O8yTq7NI32k0R5Aj+v39y29VYDOSA=
@@ -343,7 +343,6 @@ github.com/ethereum/go-ethereum v1.10.26 h1:i/7d9RBBwiXCEuyduBQzJw/mKmnvzsN14jqB
 github.com/ethereum/go-ethereum v1.10.26/go.mod h1:EYFyF19u3ezGLD4RqOkLq+ZCXzYbLoNDdZlMt7kyKFg=
 github.com/evmos/cosmos-sdk v0.46.11-ledger h1:kx6vR+c55HV0or32tjgDenqOTAwfYB3FRDIJGqKqCuI=
 github.com/evmos/cosmos-sdk v0.46.11-ledger/go.mod h1:opDBTPiPrOo781a1zT1Tadh2Runcm5Ko/KXI1hZCzRo=
-github.com/evmos/evmos/v12 v12.1.6 h1:lctgak6afgegbLgv6B28705OOkKclFwIL9KHE++IDQQ=
 github.com/facebookgo/ensure v0.0.0-20200202191622-63f1cf65ac4c h1:8ISkoahWXwZR41ois5lSJBSVw4D0OV19Ht/JSTzvSv0=
 github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 h1:JWuenKqqX8nojtoVVWjGfOF9635RETekkoH6Cc9SX0A=
 github.com/facebookgo/subset v0.0.0-20200203212716-c811ad88dec4 h1:7HZCaLC5+BZpmbhCOZJ293Lz68O7PYrF2EzeiFMwCLk=
